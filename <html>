@@ -1,8 +1,9 @@
 # Pixel-Design
-<link rel="stylesheet"
-href="styles.css"/>
-
 <html>
+    <head>
+        <link rel="stylesheet"
+        href="styles.css"/>
+    </head>
     <body>
         <header>
             <img src="https://mars.algoritmika.org/uploads/2020/11/logo_0_1606475988.png"/>
