@@ -1,6 +1,6 @@
 # Pixel-Design
 <link rel="stylesheet"
-href="style.css"/>
+href="styles.css"/>
 
 <html>
     <body>
